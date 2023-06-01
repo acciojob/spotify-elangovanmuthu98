@@ -9,6 +9,7 @@ public class Album {
 
     public Album(){
 
+        
     }
 
     public Album(String title){
